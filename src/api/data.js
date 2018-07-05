@@ -1,0 +1,20 @@
+export default {
+    "id": "bitcoin", 
+    "name": "Bitcoin", 
+    "symbol": "BTC", 
+    "rank": "1", 
+    "price_usd": "6127.49", 
+    "price_btc": "1.0", 
+    "24h_volume_usd": "3381370000.0", 
+    "market_cap_usd": "104893357908", 
+    "available_supply": "17118487.0", 
+    "total_supply": "17118487.0", 
+    "max_supply": "21000000.0", 
+    "percent_change_1h": "0.08", 
+    "percent_change_24h": "-0.41", 
+    "percent_change_7d": "-9.23", 
+    "last_updated": "1530117879", 
+    "price_sgd": "8353.61015604", 
+    "24h_volume_sgd": "4609823398.05", 
+    "market_cap_sgd": "143001166859"
+};
